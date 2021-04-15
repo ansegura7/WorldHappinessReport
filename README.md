@@ -23,7 +23,7 @@ The happiness scores and rankings use data from the Gallup World Poll . The colu
   - By Hierarchy: Hierarchical Agglomerative Clustering
   - By density: BSCAN
 
-Clustering analysis can be seen <a href="https://ansegura7.github.io/WorldHappinessReport/pages/whr_clustering.html" target="_blank">here</a>.
+Clustering analysis can be seen <a href="https://ansegura7.github.io/WorldHappinessReport/page/whr_clustering.html" target="_blank">here</a>.
 
 ## Contributing and Feedback
 Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).
