@@ -7,9 +7,23 @@ The <a href="https://worldhappiness.report/" target="_blank">World Happiness Rep
 The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others.
 
 ## Dataset
-- Original in <a href="https://worldhappiness.report/ed/2021/" target="_blank">World Happiness Report</a>
-- Also available on <a href="https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021" target="_blank">Kaggle</a>
+- Original in <a href="https://worldhappiness.report/ed/2021/" target="_blank">World Happiness Report</a>.
+- Also available on <a href="https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021" target="_blank">Kaggle</a>.
 - Local datasets <a href="https://github.com/ansegura7/WorldHappinessReport/tree/main/data" >here</a>.
+
+## Analysis
+1. Load and Explore Data
+2. Correlation Analysis
+3. Dimensionality Reduction
+  - PCA
+  - PCs Dependencies
+  - PCA Variance Ratio
+4. Clustering: apply 3 different approaches
+  - By partitioning: K-means
+  - By Hierarchy: Hierarchical Agglomerative Clustering
+  - By density: BSCAN
+
+Clustering analysis can be seen <a href="https://ansegura7.github.io/WorldHappinessReport/pages/whr_clustering.html" target="_blank">here</a>.
 
 ## Contributing and Feedback
 Any kind of feedback/criticism would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...).
